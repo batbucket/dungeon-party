@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/dungeon-party/static/css/main.ce5fa41f.chunk.css",
-    "main.js": "/dungeon-party/static/js/main.ae964c02.chunk.js",
-    "main.js.map": "/dungeon-party/static/js/main.ae964c02.chunk.js.map",
+    "main.css": "/dungeon-party/static/css/main.8868f0b4.chunk.css",
+    "main.js": "/dungeon-party/static/js/main.b43f95ee.chunk.js",
+    "main.js.map": "/dungeon-party/static/js/main.b43f95ee.chunk.js.map",
     "runtime-main.js": "/dungeon-party/static/js/runtime-main.dbbc24c5.js",
     "runtime-main.js.map": "/dungeon-party/static/js/runtime-main.dbbc24c5.js.map",
     "static/css/2.4eb3805b.chunk.css": "/dungeon-party/static/css/2.4eb3805b.chunk.css",
-    "static/js/2.35cb6037.chunk.js": "/dungeon-party/static/js/2.35cb6037.chunk.js",
-    "static/js/2.35cb6037.chunk.js.map": "/dungeon-party/static/js/2.35cb6037.chunk.js.map",
+    "static/js/2.4c17d9f8.chunk.js": "/dungeon-party/static/js/2.4c17d9f8.chunk.js",
+    "static/js/2.4c17d9f8.chunk.js.map": "/dungeon-party/static/js/2.4c17d9f8.chunk.js.map",
     "index.html": "/dungeon-party/index.html",
-    "precache-manifest.9912acb2cd05ab2537b1f17b1bfe4838.js": "/dungeon-party/precache-manifest.9912acb2cd05ab2537b1f17b1bfe4838.js",
+    "precache-manifest.757a3c11ef44960ce17ace0dc4d00795.js": "/dungeon-party/precache-manifest.757a3c11ef44960ce17ace0dc4d00795.js",
     "service-worker.js": "/dungeon-party/service-worker.js",
     "static/css/2.4eb3805b.chunk.css.map": "/dungeon-party/static/css/2.4eb3805b.chunk.css.map",
-    "static/css/main.ce5fa41f.chunk.css.map": "/dungeon-party/static/css/main.ce5fa41f.chunk.css.map",
-    "static/js/2.35cb6037.chunk.js.LICENSE.txt": "/dungeon-party/static/js/2.35cb6037.chunk.js.LICENSE.txt",
+    "static/css/main.8868f0b4.chunk.css.map": "/dungeon-party/static/css/main.8868f0b4.chunk.css.map",
+    "static/js/2.4c17d9f8.chunk.js.LICENSE.txt": "/dungeon-party/static/js/2.4c17d9f8.chunk.js.LICENSE.txt",
     "static/media/Lobby.scss": "/dungeon-party/static/media/Itim-Regular.ea9ed37a.ttf",
     "static/media/barbute.svg": "/dungeon-party/static/media/barbute.a7874ad6.svg",
     "static/media/battle-gear.svg": "/dungeon-party/static/media/battle-gear.d874c95c.svg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.dbbc24c5.js",
     "static/css/2.4eb3805b.chunk.css",
-    "static/js/2.35cb6037.chunk.js",
-    "static/css/main.ce5fa41f.chunk.css",
-    "static/js/main.ae964c02.chunk.js"
+    "static/js/2.4c17d9f8.chunk.js",
+    "static/css/main.8868f0b4.chunk.css",
+    "static/js/main.b43f95ee.chunk.js"
   ]
 }
