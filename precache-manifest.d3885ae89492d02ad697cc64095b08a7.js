@@ -1,27 +1,27 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0fe85f68e0a3626cd31ba00f9bb94b2b",
+    "revision": "4bd53767641be61eb4c12de4e42ad8cb",
     "url": "/dungeon-party/index.html"
   },
   {
-    "revision": "ab1a711399cdd3c2318b",
+    "revision": "e8b5dec9a38df5a34b04",
     "url": "/dungeon-party/static/css/2.4eb3805b.chunk.css"
   },
   {
-    "revision": "66528fae265fd9db4d05",
+    "revision": "fa0caafc22a94dac49f0",
     "url": "/dungeon-party/static/css/main.ce5fa41f.chunk.css"
   },
   {
-    "revision": "ab1a711399cdd3c2318b",
-    "url": "/dungeon-party/static/js/2.5982b06f.chunk.js"
+    "revision": "e8b5dec9a38df5a34b04",
+    "url": "/dungeon-party/static/js/2.35cb6037.chunk.js"
   },
   {
     "revision": "d0550c944a9928585a31b6efc1a5d942",
-    "url": "/dungeon-party/static/js/2.5982b06f.chunk.js.LICENSE.txt"
+    "url": "/dungeon-party/static/js/2.35cb6037.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "66528fae265fd9db4d05",
-    "url": "/dungeon-party/static/js/main.794df869.chunk.js"
+    "revision": "fa0caafc22a94dac49f0",
+    "url": "/dungeon-party/static/js/main.cb23bf45.chunk.js"
   },
   {
     "revision": "2f480f47b46b639aaf98",

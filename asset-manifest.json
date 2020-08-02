@@ -1,19 +1,19 @@
 {
   "files": {
     "main.css": "/dungeon-party/static/css/main.ce5fa41f.chunk.css",
-    "main.js": "/dungeon-party/static/js/main.794df869.chunk.js",
-    "main.js.map": "/dungeon-party/static/js/main.794df869.chunk.js.map",
+    "main.js": "/dungeon-party/static/js/main.cb23bf45.chunk.js",
+    "main.js.map": "/dungeon-party/static/js/main.cb23bf45.chunk.js.map",
     "runtime-main.js": "/dungeon-party/static/js/runtime-main.dbbc24c5.js",
     "runtime-main.js.map": "/dungeon-party/static/js/runtime-main.dbbc24c5.js.map",
     "static/css/2.4eb3805b.chunk.css": "/dungeon-party/static/css/2.4eb3805b.chunk.css",
-    "static/js/2.5982b06f.chunk.js": "/dungeon-party/static/js/2.5982b06f.chunk.js",
-    "static/js/2.5982b06f.chunk.js.map": "/dungeon-party/static/js/2.5982b06f.chunk.js.map",
+    "static/js/2.35cb6037.chunk.js": "/dungeon-party/static/js/2.35cb6037.chunk.js",
+    "static/js/2.35cb6037.chunk.js.map": "/dungeon-party/static/js/2.35cb6037.chunk.js.map",
     "index.html": "/dungeon-party/index.html",
-    "precache-manifest.aca388767f27fbc533d2fec7beb9d8b5.js": "/dungeon-party/precache-manifest.aca388767f27fbc533d2fec7beb9d8b5.js",
+    "precache-manifest.d3885ae89492d02ad697cc64095b08a7.js": "/dungeon-party/precache-manifest.d3885ae89492d02ad697cc64095b08a7.js",
     "service-worker.js": "/dungeon-party/service-worker.js",
     "static/css/2.4eb3805b.chunk.css.map": "/dungeon-party/static/css/2.4eb3805b.chunk.css.map",
     "static/css/main.ce5fa41f.chunk.css.map": "/dungeon-party/static/css/main.ce5fa41f.chunk.css.map",
-    "static/js/2.5982b06f.chunk.js.LICENSE.txt": "/dungeon-party/static/js/2.5982b06f.chunk.js.LICENSE.txt",
+    "static/js/2.35cb6037.chunk.js.LICENSE.txt": "/dungeon-party/static/js/2.35cb6037.chunk.js.LICENSE.txt",
     "static/media/Lobby.scss": "/dungeon-party/static/media/Itim-Regular.ea9ed37a.ttf",
     "static/media/barbute.svg": "/dungeon-party/static/media/barbute.a7874ad6.svg",
     "static/media/battle-gear.svg": "/dungeon-party/static/media/battle-gear.d874c95c.svg",
@@ -59,8 +59,8 @@
   "entrypoints": [
     "static/js/runtime-main.dbbc24c5.js",
     "static/css/2.4eb3805b.chunk.css",
-    "static/js/2.5982b06f.chunk.js",
+    "static/js/2.35cb6037.chunk.js",
     "static/css/main.ce5fa41f.chunk.css",
-    "static/js/main.794df869.chunk.js"
+    "static/js/main.cb23bf45.chunk.js"
   ]
 }
