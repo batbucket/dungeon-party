@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/dungeon-party/static/css/main.ce5fa41f.chunk.css",
-    "main.js": "/dungeon-party/static/js/main.cb23bf45.chunk.js",
-    "main.js.map": "/dungeon-party/static/js/main.cb23bf45.chunk.js.map",
+    "main.js": "/dungeon-party/static/js/main.ae964c02.chunk.js",
+    "main.js.map": "/dungeon-party/static/js/main.ae964c02.chunk.js.map",
     "runtime-main.js": "/dungeon-party/static/js/runtime-main.dbbc24c5.js",
     "runtime-main.js.map": "/dungeon-party/static/js/runtime-main.dbbc24c5.js.map",
     "static/css/2.4eb3805b.chunk.css": "/dungeon-party/static/css/2.4eb3805b.chunk.css",
     "static/js/2.35cb6037.chunk.js": "/dungeon-party/static/js/2.35cb6037.chunk.js",
     "static/js/2.35cb6037.chunk.js.map": "/dungeon-party/static/js/2.35cb6037.chunk.js.map",
     "index.html": "/dungeon-party/index.html",
-    "precache-manifest.d3885ae89492d02ad697cc64095b08a7.js": "/dungeon-party/precache-manifest.d3885ae89492d02ad697cc64095b08a7.js",
+    "precache-manifest.9912acb2cd05ab2537b1f17b1bfe4838.js": "/dungeon-party/precache-manifest.9912acb2cd05ab2537b1f17b1bfe4838.js",
     "service-worker.js": "/dungeon-party/service-worker.js",
     "static/css/2.4eb3805b.chunk.css.map": "/dungeon-party/static/css/2.4eb3805b.chunk.css.map",
     "static/css/main.ce5fa41f.chunk.css.map": "/dungeon-party/static/css/main.ce5fa41f.chunk.css.map",
@@ -61,6 +61,6 @@
     "static/css/2.4eb3805b.chunk.css",
     "static/js/2.35cb6037.chunk.js",
     "static/css/main.ce5fa41f.chunk.css",
-    "static/js/main.cb23bf45.chunk.js"
+    "static/js/main.ae964c02.chunk.js"
   ]
 }
